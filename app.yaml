@@ -1,0 +1,6 @@
+runtime: php55
+
+handlers:
+- url:/.*
+  script: 20030034.php
+  script: Test.php
